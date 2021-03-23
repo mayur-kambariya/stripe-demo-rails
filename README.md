@@ -8,8 +8,7 @@ Setup for local
 
 * rails s
 
-* http://localhost:3000
-ent instructions
+* http://localhost:3000 run on browser
 
 * ...
 # Rails app demo for stripe integration
