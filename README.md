@@ -1,25 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Setup for local
 
-Things you may want to cover:
+* Bundle install
 
-* Ruby version
+* rails db:setup
 
-* System dependencies
+* rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* http://localhost:3000
+ent instructions
 
 * ...
-# rails-stripe-integration
+# Rails app demo for stripe integration
+
+For contact send mail to mayurkambariya[at]gmail[.]com
